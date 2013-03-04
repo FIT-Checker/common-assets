@@ -4,6 +4,7 @@
 	"main": [
 		"./css/main.css",
 		"./img/icon-16.png",
+		"./img/icon-18.png",
 		"./img/icon-48.png",
 		"./img/icon-128.png",
 		"./img/loader.gif",
