@@ -1,4 +1,4 @@
-common-assets
-=============
+Common assets for FIT Checker
+=============================
 
-Common assests for FIT Checker
+Contains all common assets for all specific builds.
