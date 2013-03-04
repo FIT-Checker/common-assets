@@ -1,0 +1,14 @@
+{
+	"name": "fit-checker-common-assets",
+	"version": "0.1.0",
+	"main": [
+		"./css/main.css",
+		"./img/icon-16.png",
+		"./img/icon-48.png",
+		"./img/icon-128.png",
+		"./img/loader.gif",
+		"./img/user.png",
+		"./img/error.png",
+		"./img/ok.png"
+	]
+}
