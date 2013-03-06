@@ -31,7 +31,7 @@ header {
 	padding-left: 20px;
 }
 
-.loading {
+.loader {
 	float: right;
 	background: url("../img/loader.gif") right no-repeat;
 	padding-right: 20px;
