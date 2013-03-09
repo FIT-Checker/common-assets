@@ -1,7 +1,8 @@
 body {
 	font-family: Verdana, Arial, sans-serif;
 	font-size: 12px;
-	width: 460px;
+	min-width: 300px;
+	max-width: 640px;
 	color: #333;
 }
 
@@ -32,9 +33,8 @@ header {
 }
 
 .loader {
-	float: right;
-	background: url("../img/loader.gif") right no-repeat;
-	padding-right: 20px;
+	background: url("../img/loader.gif") left no-repeat;
+	padding-left: 20px;
 }
 
 .messages {
@@ -63,6 +63,7 @@ header {
 }
 
 .menu {
+	white-space: nowrap;
 	clear: both;
 	border-bottom: 1px solid #ccc;
 	height: 26px;
